@@ -1,9 +1,6 @@
-ipykernel
-pandas
-numpy
-matplotlib
-plotly
-streamlit
-seaborn
-nbformat>=4.2.0
-scipy
+dash==2.9.3
+dash-bootstrap-components==1.4.1
+# pandas==1.5.3
+plotly==5.13.1
+# numpy==1.23.5
+gunicorn==20.1.0
