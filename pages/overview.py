@@ -83,37 +83,7 @@ def create_overview_layout():
             ], className="card shadow-lg rounded-lg p-4 mb-4 bg-white"),
             
         
-            # # KPI Cards
-            # html.Div([
-            #     create_stat_card(
-            #         "Total Global Sales",
-            #         f"${overview_stats['total_sales']:.2f}B",
-            #         "Lifetime sales volume",
-            #         "fas fa-globe",
-            #         "bg-blue-50"
-            #     ),
-            #     create_stat_card(
-            #         "Total Games",
-            #         f"{overview_stats['total_games']:,}",
-            #         "Games released",
-            #         "fas fa-gamepad",
-            #         "bg-green-50"
-            #     ),
-            #     create_stat_card(
-            #         "Active Publishers",
-            #         str(overview_stats['active_publishers']),
-            #         "Publishing companies",
-            #         "fas fa-building",
-            #         "bg-yellow-50"
-            #     ),
-            #     create_stat_card(
-            #         "Platforms",
-            #         str(overview_stats['total_platforms']),
-            #         "Gaming platforms",
-            #         "fas fa-tv",
-            #         "bg-purple-50"
-            #     )
-            # ], className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-6"),
+            
             html.Div([  # Card container
                 html.Div([  # Row container
                     html.Div([
@@ -250,41 +220,7 @@ def create_stat_card(title, value, description, icon, bg_color):
         ], className="flex items-center gap-4")
     ], className=f"bg-white p-6 rounded-lg shadow-sm {bg_color}")
 
-# @callback(
-#     [Output('overview-sales-trend', 'figure'),
-#      Output('overview-regional-share', 'figure'),
-#      Output('overview-genre-dist', 'figure'),
-#      Output('overview-platform-perf', 'figure'),
-#      Output('overview-insights', 'children'),
-#      Output('genre-summary-container', 'children'),
-#      Output('publisher-summary-container', 'children')],
-#     [Input('start-year-dropdown', 'value'),
-#      Input('end-year-dropdown', 'value')]
-# )
-# def update_dashboard(start_year, end_year):
-#     """Updates all dashboard components based on selected year range."""
-#     df = load_vgsales_data()
-    
-#     # Ensure valid year range
-#     if start_year > end_year:
-#         start_year, end_year = end_year, start_year
-    
-#     # Filter data
-#     mask = (df['Year'] >= start_year) & (df['Year'] <= end_year)
-#     df_filtered = df[mask]
-    
-#     # Generate all visualizations and insights
-#     sales_trend = create_sales_trend(df_filtered)
-#     regional_share = create_regional_share(df_filtered)
-#     genre_dist = create_genre_distribution(df_filtered)
-#     platform_perf = create_platform_performance(df_filtered)
-#     insights = generate_insights(df_filtered)
-    
-#     # Create summary cards
-#     genre_summary = create_genre_summary_card(df_filtered)
-#     publisher_summary = create_publisher_summary_card(df_filtered)
-    
-#     return sales_trend, regional_share, genre_dist, platform_perf, insights, genre_summary, publisher_summary
+
 
 @callback(
     [Output('overview-sales-trend', 'figure'),
@@ -434,45 +370,7 @@ def create_platform_performance(df):
     
     return fig
 
-# def generate_insights(df):
-#     """Generates key insights cards from the data."""
-#     insights = []
-    
-#     # Sales Growth Insight
-#     growth = calculate_yoy_growth(df)
-#     if growth is not None:
-#         trend = 'positive' if growth > 0 else 'negative'
-#         insights.append(create_trend_card(
-#             "Sales Growth",
-#             f"{abs(growth):.1f}%",
-#             f"Year-over-year {'increase' if trend == 'positive' else 'decrease'}",
-#             trend
-#         ))
-    
-#     # Market Leaders
-#     publisher_sales = df.groupby('Publisher')['Global_Sales'].sum()
-#     top_publisher = publisher_sales.nlargest(1)
-#     publisher_share = (top_publisher.values[0] / publisher_sales.sum()) * 100
-    
-#     insights.append(create_stat_card(
-#         "Market Leader",
-#         top_publisher.index[0],
-#         f"{publisher_share:.1f}% market share",
-#         "bg-blue-50"
-#     ))
-    
-#     # Genre Diversity
-#     genre_count = df['Genre'].nunique()
-#     avg_sales_per_genre = df['Global_Sales'].sum() / genre_count
-    
-#     insights.append(create_stat_card(
-#         "Genre Diversity",
-#         f"{genre_count} genres",
-#         f"${avg_sales_per_genre:.1f}M avg. sales per genre",
-#         "bg-green-50"
-#     ))
-    
-#     return html.Div(insights, className="grid grid-cols-1 md:grid-cols-3 gap-4")
+
 def generate_insights(df):
     """Generates key insights cards from the data."""
     insights = []
