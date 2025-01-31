@@ -1,0 +1,426 @@
+2025-01-26 12:46:25,728 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 12:46:27,934 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 12:46:49,411 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 12:46:49,428 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 12:46:49,857 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 12:46:49,863 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 12:50:47,371 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 12:51:05,471 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 12:51:05,485 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 12:51:05,967 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 12:51:05,982 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 12:57:29,742 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 12:57:30,302 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 12:57:30,329 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 12:57:30,789 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 12:57:30,799 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 12:58:13,426 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 12:58:15,160 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 12:58:15,211 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 12:58:17,157 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 12:58:17,162 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 12:58:50,285 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 12:58:50,626 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 12:58:50,675 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 12:58:51,109 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 12:58:51,119 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:02:43,239 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 13:02:44,450 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:02:44,500 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:02:44,902 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:02:44,914 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:04:28,575 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 13:04:28,994 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:04:29,008 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:04:29,425 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:04:29,444 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:05:50,063 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 13:05:50,513 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:05:50,553 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:05:50,958 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:05:50,961 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:07:15,868 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 13:07:16,296 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:07:16,312 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:07:16,736 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:07:16,747 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:08:49,769 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 13:08:50,094 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:08:50,108 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:08:50,562 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:08:50,571 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:10:21,508 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:10:21,522 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:10:21,952 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:10:21,979 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:11:51,994 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:11:52,005 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:11:52,434 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:11:52,500 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:12:52,200 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:12:52,210 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:12:52,678 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:12:52,709 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:13:55,359 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:13:55,368 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:13:55,767 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:13:55,804 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:14:14,501 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:14:14,512 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:14:15,006 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:14:15,180 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:15:07,042 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:15:07,110 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:33:26,176 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 13:33:27,946 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:33:27,962 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:33:28,612 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:33:28,671 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:33:28,768 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:33:29,323 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:39:16,842 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 13:39:17,321 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:39:17,342 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:39:17,829 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:39:17,838 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:39:18,415 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:39:18,447 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:39:20,177 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:39:20,195 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:39:21,661 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:39:21,664 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:39:22,280 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:39:22,335 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:46:52,326 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 13:46:52,899 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:46:52,921 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:46:53,349 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:46:53,363 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:46:56,799 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:46:56,820 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:46:57,971 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:46:57,975 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:54:21,681 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 13:54:22,859 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:54:22,913 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:54:23,476 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:54:23,483 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:55:15,926 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 13:55:17,439 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:55:17,475 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:55:18,852 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:55:18,856 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:57:14,461 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 13:57:14,889 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:57:14,902 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 13:57:15,282 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 13:57:15,300 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 14:04:48,568 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 14:05:16,653 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 14:05:16,670 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 14:05:17,103 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 14:05:17,106 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 15:04:59,390 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 15:05:00,728 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 15:05:00,756 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 15:05:01,159 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 15:05:01,168 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:09:40,347 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 17:09:41,010 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:09:41,023 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:09:41,427 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:09:41,430 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:10:31,767 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 17:10:32,146 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:10:32,161 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:10:32,591 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:10:32,604 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:10:33,853 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:10:33,866 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:10:35,534 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:10:35,537 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:17:23,463 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:17:23,480 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:17:23,969 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:17:23,986 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:18:14,646 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:18:14,677 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:18:15,312 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:18:15,424 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:18:27,601 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:18:27,632 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:18:34,251 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:18:34,271 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:18:34,875 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:18:35,043 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:18:36,260 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:18:36,268 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:18:36,682 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:18:36,702 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:25:22,038 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:25:22,089 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:25:22,670 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:25:22,677 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:25:30,712 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:25:30,718 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:25:31,338 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:25:31,410 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:25:39,754 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:25:39,772 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:25:48,001 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:25:48,013 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:25:48,521 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:25:48,565 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:34:05,993 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 17:34:06,990 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:34:07,030 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:34:08,058 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:34:08,061 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:34:08,543 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:34:08,562 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:34:08,979 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:34:08,988 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:34:25,024 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:34:25,035 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:34:25,478 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:34:25,521 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:34:36,462 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:34:36,469 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:34:36,875 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:34:36,878 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:35:16,806 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 17:35:17,239 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:35:17,271 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:35:17,675 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:35:17,678 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:36:42,044 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 17:36:42,757 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:36:42,776 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:36:43,230 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:36:43,236 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:40:14,916 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 17:40:15,587 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:40:15,599 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:40:16,052 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:40:16,068 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:43:44,829 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 17:43:45,345 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:43:45,360 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:43:45,877 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:43:45,890 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:43:55,215 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 17:43:55,514 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:43:55,522 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:43:55,880 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:43:55,887 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:44:32,751 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:44:32,765 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:44:33,981 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:44:33,987 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:47:34,912 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:47:34,943 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:47:35,463 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:47:35,484 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:47:56,269 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 17:47:56,606 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:47:56,625 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:47:57,045 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:47:57,056 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:49:26,049 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 17:49:26,473 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:49:26,489 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:49:26,898 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:49:26,904 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:53:12,081 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:53:12,096 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:53:12,597 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:53:12,617 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:58:01,223 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:58:01,281 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:58:01,910 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:58:02,151 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 17:59:59,396 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 17:59:59,403 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:11:25,745 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:11:26,255 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:11:26,272 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:11:26,651 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:11:26,667 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:11:41,751 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:11:42,072 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:11:42,081 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:11:42,418 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:11:42,435 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:21:39,002 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:21:40,907 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:21:50,302 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:21:50,340 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:21:50,773 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:21:50,781 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:22:21,737 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:22:22,125 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:22:22,136 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:22:22,471 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:22:22,482 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:22:33,945 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:22:35,345 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:22:35,354 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:22:35,706 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:22:35,713 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:22:43,670 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:22:43,679 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:22:44,044 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:22:44,047 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:23:30,856 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:23:31,187 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:23:31,200 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:23:31,523 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:23:31,532 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:23:38,426 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:23:38,444 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:23:38,849 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:23:38,854 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:24:45,752 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:24:46,656 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:24:46,674 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:24:47,086 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:24:47,099 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:27:35,786 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:27:37,258 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:27:37,283 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:27:37,802 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:27:37,804 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:28:30,875 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:28:31,320 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:28:31,334 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:28:31,671 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:28:31,677 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:40:23,185 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:40:25,014 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:40:38,288 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:40:38,315 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:40:38,744 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:40:38,749 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:42:00,499 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:42:00,928 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:42:00,933 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:42:01,561 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:42:01,564 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:46:29,334 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:46:31,391 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:46:33,128 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:46:33,144 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:46:33,556 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:46:33,561 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:47:17,038 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:47:18,086 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:47:18,120 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:47:18,552 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:47:18,561 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:48:11,953 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:48:12,327 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:48:12,343 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:48:12,740 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:48:12,760 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:48:14,012 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:48:14,042 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:48:14,443 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:48:14,454 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:48:28,089 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:48:29,497 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:48:29,514 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:48:30,043 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:48:30,062 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:53:31,608 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:53:32,777 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:53:32,803 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:53:33,205 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:53:33,209 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:55:10,815 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:55:11,209 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:55:11,231 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:55:11,669 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:55:11,681 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:57:10,898 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:57:12,285 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:57:12,314 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:57:12,682 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:57:12,691 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:58:19,944 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:58:20,966 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:58:20,990 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:58:22,198 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:58:22,202 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:59:22,789 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 18:59:23,292 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:59:23,310 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 18:59:23,811 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 18:59:23,820 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:01:19,418 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:01:19,760 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:01:19,770 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:01:20,108 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:01:20,119 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:01:27,226 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:01:27,459 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:01:27,464 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:01:27,841 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:01:27,844 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:03:35,111 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:03:35,572 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:03:35,583 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:03:35,942 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:03:35,948 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:05:46,543 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:05:48,032 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:05:48,050 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:05:48,682 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:05:48,724 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:07:30,847 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:07:31,666 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:07:31,686 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:07:32,139 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:07:32,159 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:10:10,662 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:10:11,033 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:10:11,048 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:10:11,441 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:10:11,455 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:14:14,086 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:14:15,576 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:14:15,607 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:14:17,559 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:14:17,564 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:18:27,219 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:18:28,810 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:18:32,450 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:18:32,463 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:18:32,926 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:18:32,934 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:20:23,079 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:20:53,128 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:20:53,565 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:20:53,580 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:20:54,139 - vgsales_dashboard - DEBUG - app.py:868 - Filtering with: years=1980-2020, platforms=None, genres=None, publishers=None
+2025-01-26 19:20:54,143 - vgsales_dashboard - DEBUG - app.py:886 - Filtered data shape: (16598, 11)
+2025-01-26 19:25:42,324 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:27:51,462 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:28:22,738 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:31:06,354 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:33:25,669 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:34:33,309 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:36:57,336 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:38:42,282 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:39:50,195 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:41:21,108 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:42:04,259 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:46:38,629 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:47:27,246 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:47:49,357 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:49:19,499 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:50:01,927 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:50:59,526 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:52:03,664 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:57:40,757 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:57:47,146 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
+2025-01-26 19:58:30,424 - vgsales_dashboard - INFO - app.py:667 - Data loaded and cleaned successfully
